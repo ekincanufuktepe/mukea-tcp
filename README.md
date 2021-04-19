@@ -1,6 +1,6 @@
 # MKEA-TCP
 
-MKEA-TCP is a mutant kill-based local search augmented evalutionary algorithm test case prioritization technique.
+MKEA-TCP is a mutant kill-based local search augmented evolutionary algorithm test case prioritization technique.
 
 There are also three more techniques implemented in the code that uses: 
 * Total-based approach (TMKPT)
