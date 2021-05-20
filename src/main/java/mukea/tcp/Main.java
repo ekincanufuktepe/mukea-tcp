@@ -1,4 +1,4 @@
-package mkea.tcp;
+package mukea.tcp;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -12,11 +12,11 @@ import org.opt4j.operators.mutate.BasicMutateModule;
 import org.opt4j.operators.mutate.BasicMutateModule.MutationRateType;
 import org.opt4j.operators.mutate.BasicMutateModule.PermutationType;
 
-import mkea.tcp.ea.EvolutionaryAlgorithmWithLocalSearchModule;
-import mkea.tcp.ea.TCPCreator;
-import mkea.tcp.ea.TCPModule;
-import mkea.tcp.importTestReport.APMKCalculator;
-import mkea.tcp.importTestReport.MutationKilledByTestParser;
+import mukea.tcp.ea.EvolutionaryAlgorithmWithLocalSearchModule;
+import mukea.tcp.ea.TCPCreator;
+import mukea.tcp.ea.TCPModule;
+import mukea.tcp.importTestReport.APMKCalculator;
+import mukea.tcp.importTestReport.MutationKilledByTestParser;
 
 public class Main {
 

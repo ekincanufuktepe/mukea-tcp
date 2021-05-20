@@ -1,4 +1,4 @@
-package mkea.tcp.importTestReport;
+package mukea.tcp.importTestReport;
 
 import java.io.File;
 import java.io.IOException;

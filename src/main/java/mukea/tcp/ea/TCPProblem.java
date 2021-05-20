@@ -1,12 +1,12 @@
-package mkea.tcp.ea;
+package mukea.tcp.ea;
 
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
-import mkea.tcp.Main;
-import mkea.tcp.importTestReport.MutantInfo;
-import mkea.tcp.importTestReport.MutationKilledByTestParser;
+import mukea.tcp.Main;
+import mukea.tcp.importTestReport.MutantInfo;
+import mukea.tcp.importTestReport.MutationKilledByTestParser;
 
 
 public class TCPProblem {

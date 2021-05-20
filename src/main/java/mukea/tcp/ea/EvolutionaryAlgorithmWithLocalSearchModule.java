@@ -1,4 +1,4 @@
-package mkea.tcp.ea;
+package mukea.tcp.ea;
 
 /*******************************************************************************
  * Copyright (c) 2014 Opt4J

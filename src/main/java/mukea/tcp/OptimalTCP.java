@@ -1,11 +1,11 @@
-package mkea.tcp;
+package mukea.tcp;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
 
-import mkea.tcp.importTestReport.APMKCalculator;
-import mkea.tcp.importTestReport.MutantInfo;
+import mukea.tcp.importTestReport.APMKCalculator;
+import mukea.tcp.importTestReport.MutantInfo;
 
 public class OptimalTCP {
 

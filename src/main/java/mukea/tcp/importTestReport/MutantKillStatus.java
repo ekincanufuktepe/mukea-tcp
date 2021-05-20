@@ -1,4 +1,4 @@
-package mkea.tcp.importTestReport;
+package mukea.tcp.importTestReport;
 
 public enum MutantKillStatus {
 	KILLED,

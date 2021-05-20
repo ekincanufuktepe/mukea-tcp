@@ -1,4 +1,4 @@
-package mkea.tcp.ea;
+package mukea.tcp.ea;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -10,7 +10,7 @@ import org.opt4j.core.Objective.Sign;
 import org.opt4j.core.Objectives;
 import org.opt4j.core.problem.Evaluator;
 
-import mkea.tcp.importTestReport.MutationKilledByTestParser;
+import mukea.tcp.importTestReport.MutationKilledByTestParser;
 
 public class TCPEvaluator implements Evaluator<TCPOrder> {
 

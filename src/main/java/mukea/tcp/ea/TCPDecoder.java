@@ -1,4 +1,4 @@
-package mkea.tcp.ea;
+package mukea.tcp.ea;
 
 import org.opt4j.core.problem.Decoder;
 import org.opt4j.core.genotype.PermutationGenotype;

@@ -1,10 +1,10 @@
-package mkea.tcp.ea;
+package mukea.tcp.ea;
 
 import java.util.ArrayList;
 
 import org.opt4j.core.problem.ProblemModule;
 
-import mkea.tcp.Main;
+import mukea.tcp.Main;
 
 public class TCPModule extends ProblemModule {
 	
